@@ -1,2 +1,2 @@
 # clrs-algorithms
-Repository to place real examples of pseudo coded algorithms and exercises from the Introduction to Algorithms textbook.
+A place to put real code examples of pseudo coded algorithms and exercises from the Introduction to Algorithms textbook. I will begin with C++ but may move to other languages to change things up a bit. I am doing this to increase my understanding of computer science, git, and other languages. The accuracy of these applied algorithms is not guaranteed, as such feel free to provide input.
